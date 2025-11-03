@@ -4,8 +4,8 @@
     "inst2": "Your practice is now complete. The real test will begin next.",
     "reminder":"Reminder:
 - 0-back : compare the result to 50
-- 1-back : compare the result to the preceding answer
-- 2-back : compare the result to the answer calculated two operations ago
+- 1-back : compare the result to the preceding result
+- 2-back : compare the result to the result calculated two operations ago
 You will use the right arrow key to indicate an identical comparison and left arrow key  to indicate a different comparison.",
 
     "ready1":"Please tell the researcher when you are ready to proceed.",
@@ -16,10 +16,10 @@ You will use the right arrow key to indicate an identical comparison and left ar
     
     "zerobackprompt":"0-Back practice trial will begin in",
     "onebackprompt": "1-Back practice trial will begin in",
-    "twobackprompt":"2-Back practice trial will begin in",
-    "headerzero": "Is the sum equal to 50?",
-    "headerone":  "Is the sum equal to the previous result?",
-    "headertwo": "Is the sum equal to the two-back result?",
+    "twobackpropmt":"2-Back practice trial will begin in",
+    "headerzero": "Is the result equal to 50?",
+    "headerone":  "Is the result equal to the previous result?",
+    "headertwo": "Is the result equal to the two-back result?",
     "zeroback": "Zero back",
     "oneback": "One back",
     "twoback": "Two back",
